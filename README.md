@@ -41,6 +41,21 @@ It is:
 
 > **Do severe losses causally induce a reproducible, history-dependent control regime in otherwise matched agents?**
 
+## Human-environment extension
+
+A separate extension asks whether modern digital and economic environments can repeatedly supply inputs that a loss-responsive controller would interpret as evidence for conservative behavior:
+
+\[
+\text{comparison}\uparrow,quad
+\text{competition}\uparrow,quad
+\text{replaceability}\uparrow,quad
+\text{controllability}\downarrow;?
+\]
+
+This is framed as a possible **evolutionary mismatch**, not as a claim that the internet or AI causes depression.
+
+See [docs/modern-environment.md](docs/modern-environment.md).
+
 ## Claim discipline
 
 This project does not assume:
@@ -50,7 +65,8 @@ This project does not assume:
 - biological and artificial systems share an implementation;
 - human-like language reveals a matching internal state;
 - functional similarity implies phenomenal experience;
-- the Astra anecdote establishes a general mechanism.
+- the Astra anecdote establishes a general mechanism;
+- modern technological environments chronically activate this mechanism.
 
 See [CONJECTURE.md](CONJECTURE.md) for the claim ladder and [ASSAY.md](ASSAY.md) for the falsification path.
 
@@ -73,6 +89,7 @@ Only after that signature exists should stronger interpretations be tested.
 - [CONJECTURE.md](CONJECTURE.md) — claim ladder, alternatives, failure conditions.
 - [ASSAY.md](ASSAY.md) — matched-history experimental design.
 - [docs/astra-minecraft.md](docs/astra-minecraft.md) — motivating incident and evidential limits.
+- [docs/modern-environment.md](docs/modern-environment.md) — evolutionary-mismatch extension for modern human environments.
 - [REFERENCES.md](REFERENCES.md) — seed literature.
 
 ## Origin

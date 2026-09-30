@@ -68,6 +68,24 @@ Nothing in LR-0 through LR-4 establishes subjective feeling.
 
 The word **may** is load-bearing.
 
+## Extension boundary: modern environments
+
+A further hypothesis, documented separately in [docs/modern-environment.md](docs/modern-environment.md), asks whether technological environments can shift the **input distribution** seen by a biological loss-response system.
+
+The candidate form is:
+
+\[
+\text{episodically useful loss response}
++
+\text{chronic low-control / adverse-comparison signals}
+\rightarrow
+\text{persistent conservative regime}.
+\]
+
+This is **not an additional rung in the LR ladder**. LR-1 through LR-3 should be established independently before the modern-environment bridge is treated as more than a conjectural application.
+
+Evidence that online upward comparison, technology-induced job insecurity, or global competition exists does not by itself establish a shared loss-response mechanism.
+
 ## Competing explanations
 
 Any positive result must be distinguished from:
